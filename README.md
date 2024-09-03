@@ -4,6 +4,10 @@
 
 Este proyecto es una aplicación web interactiva desarrollada con Streamlit para la visualización de datos utilizando PyGWalker. La aplicación permite a los usuarios cargar archivos CSV o XLSX y visualizarlos mediante una interfaz gráfica proporcionada por PyGWalker. 
 
+Puedes encontrar el proyecto en el siguiente enlace:
+## https://visualizar-datos.streamlit.app/
+
+
 ## Funcionalidades
 
 - **Carga de Datos**: Permite cargar archivos en formato CSV o XLSX.
